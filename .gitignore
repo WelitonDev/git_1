@@ -1,8 +1,4 @@
 .env
-<<<<<<< HEAD
-node_module
-/dist
-=======
-/dist
-/node_module
->>>>>>> branch_test
+node_modules/
+dist/
+
